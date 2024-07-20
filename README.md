@@ -1,1 +1,1 @@
-https://github.com/BurakBektas17/RESUME
+ https://burakbektas17.github.io/RESUME/
